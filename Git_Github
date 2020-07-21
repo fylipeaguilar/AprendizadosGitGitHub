@@ -1,0 +1,50 @@
+******************** Git e Github ***********************
+
+	- Sistema de Controle de versão Distribuido
+	- SCM - Source Control Management
+	
+(1)	 - Gerência de configuração de Software
+
+	- O que mudou e quando mudou?
+	- Porque mudou?
+	- Quem fez a mudança?
+	- Podemos reproduzir a mudança
+	
+(1.1) Identificação
+(1.2) Documentação
+(1.3) Controle
+(1.4) Auditoria
+(1.5) - Artefatos
+
+	- Código fonte
+	- Documentação de software
+	- Manual do usuário
+	
+(2)	- Controle de versão
+
+	- Contro de versão faz o merge entre as alterações
+	
+(3)	- Ferramentas de Controle de Versão
+
+	- Subversion (SVN) - Ainda bem usado e mais em empresa que já está com o sistema legado
+	- Mercurial
+	- CVS (Concurrent Versioning System)
+	- Bazaar (bem antigo e pouco usado)
+	- Git*: é o mais rápido e eficiente
+	
+(4)	Git - Ferramentas de Controle de Versão
+
+	*** SVN ***
+		- Diferente do SVN, o Git é um sistema distribuído
+		- O SVN pega uma parte do código (apenas a que você tem permissão)
+		- No SVN pra vc fazer um "commit" (registrar uma alteração) é preciso estar conectado ao servidor
+ 
+	*** SVN ***
+		- Tem um cópia do repositório (localmente);
+		- Não precisa estar conectado ao servidor para fazer o commit (distribuído);
+		- O controle de versão não precisa estar conectado ao servidor;
+
+
+(4)	GitHub - Servidor de repositorios Git (2008)
+
+	
