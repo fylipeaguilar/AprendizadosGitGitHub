@@ -14,4 +14,4 @@ O hash é como se fosse o título do HTML.
 
 Para adicionar uma imagem usamos o "![]"
 
-![./Imagem_GitHub.png](GitHub)
+![Imagem_GitHub.png](GitHub)
